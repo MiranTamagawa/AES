@@ -1,6 +1,6 @@
 # AES
 Arduino IDEでAESを動かすためのAESソースコード
 
-”https://qiita.com/tobira-code/items/152befa86bd515f67241”
+https://qiita.com/tobira-code/items/152befa86bd515f67241
 
 ↑上記リンクのAESのコードを参考に、Arduino IDEで動かせるようにしました。
